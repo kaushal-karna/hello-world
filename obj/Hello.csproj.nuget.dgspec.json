@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\OneDrive\\Desktop\\c#\\Hello\\Hello.csproj": {}
+    "C:\\Users\\CodexSandboxOffline\\.codex\\.sandbox\\cwd\\e74b0ca8c32f1915\\Hello.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\OneDrive\\Desktop\\c#\\Hello\\Hello.csproj": {
+    "C:\\Users\\CodexSandboxOffline\\.codex\\.sandbox\\cwd\\e74b0ca8c32f1915\\Hello.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\OneDrive\\Desktop\\c#\\Hello\\Hello.csproj",
+        "projectUniqueName": "C:\\Users\\CodexSandboxOffline\\.codex\\.sandbox\\cwd\\e74b0ca8c32f1915\\Hello.csproj",
         "projectName": "Hello",
-        "projectPath": "C:\\Users\\USER\\OneDrive\\Desktop\\c#\\Hello\\Hello.csproj",
-        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\OneDrive\\Desktop\\c#\\Hello\\obj\\",
+        "projectPath": "C:\\Users\\CodexSandboxOffline\\.codex\\.sandbox\\cwd\\e74b0ca8c32f1915\\Hello.csproj",
+        "packagesPath": "C:\\Users\\CodexSandboxOffline\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CodexSandboxOffline\\.codex\\.sandbox\\cwd\\e74b0ca8c32f1915\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",

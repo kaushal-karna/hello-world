@@ -1,0 +1,58 @@
+# Build outputs
+bin/
+obj/
+out/
+
+# Visual Studio / VS Code
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# NuGet
+packages/
+*.nupkg
+*.snupkg
+
+# Logs and temp files
+*.log
+*.tmp
+*.cache
+*.bak
+
+# Large / media files
+*.zip
+*.7z
+*.rar
+*.tar
+*.gz
+*.tgz
+*.bz2
+*.xz
+*.iso
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.wmv
+*.mp3
+*.wav
+*.flac
+*.pdf
+*.docx
+*.xlsx
+*.pptx
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.psd
+*.tiff
+
+# Executables
+*.exe
+*.dll
+*.pdb

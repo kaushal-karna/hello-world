@@ -1,18 +1,16 @@
-namespace Hello.Models
+namespace Hello.Models;
+
+/// <summary>A small class used by the object-oriented programming example.</summary>
+internal sealed class Player
 {
- internal class Player
+    public string Name { get; }
+    public int Health { get; private set; }
+
+    public Player(string name, int health = 100)
     {
-        public string name = "Kaushal";
-        private int health = 49;
-
-        public int getHealth()
-        {
-            return health;
-        }
-
-        public void setHealth(int h)
-        {
-            health = h;
-        }
+        Name = name;
+        Health = health;
     }
+
+    public void TakeDamage(int amount) => Health = Math.Max(0, Health - amount);
 }
