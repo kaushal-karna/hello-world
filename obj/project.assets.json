@@ -8,16 +8,16 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\CodexSandboxOffline\\.nuget\\packages\\": {}
+    "C:\\Users\\USER\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\CodexSandboxOffline\\.codex\\.sandbox\\cwd\\e74b0ca8c32f1915\\Hello.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\OneDrive\\Desktop\\c#\\Hello\\Hello.csproj",
       "projectName": "Hello",
-      "projectPath": "C:\\Users\\CodexSandboxOffline\\.codex\\.sandbox\\cwd\\e74b0ca8c32f1915\\Hello.csproj",
-      "packagesPath": "C:\\Users\\CodexSandboxOffline\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\CodexSandboxOffline\\.codex\\.sandbox\\cwd\\e74b0ca8c32f1915\\obj\\",
+      "projectPath": "C:\\Users\\USER\\OneDrive\\Desktop\\c#\\Hello\\Hello.csproj",
+      "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\USER\\OneDrive\\Desktop\\c#\\Hello\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
